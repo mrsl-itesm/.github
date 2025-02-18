@@ -15,3 +15,8 @@
   - [ResearchTec](https://research.tec.mx/vivo-tec/display/PID_292306)
 - Dr. Luis Guerrero Bonilla
 
+### Research:
+
+* Adaptive Single-Gain Sliding Mode Controller for a Tilted-rotors Hexacopter Under Wind Perturbations
+[![Adaptive Single-Gain Sliding Mode Controller for a Tilted-rotors Hexacopter Under Wind Perturbations]()](https://www.youtube.com/watch?v=6Lxd_NiaSbQ)
+
