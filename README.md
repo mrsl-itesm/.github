@@ -1,12 +1,8 @@
 # [MultiRobot Systems Lab](https://tecscience.tec.mx/es/tecnologia/laboratorio-robotica-mexico/)
 
----
-
 <img src="https://www.github.com/mrsl-itesm/TEClogo.jpg" align="center">
 
 ## MultiRobot Systems Laboratory @ Tec de Monterrey Campus Monterrey
-
----
 
 # Principal Investigators:
 
