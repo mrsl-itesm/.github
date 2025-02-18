@@ -18,4 +18,4 @@
 ### Research:
 
 * Adaptive Single-Gain Sliding Mode Controller for a Tilted-rotors Hexacopter Under Wind Perturbations
-[<img src="https://github.com/mrsl-itesm/.github/blob/2b1798a774fb1a74f1512b67c13fd0057f1394d7/mini_adan.png"> width="446" height="800"](https://www.youtube.com/watch?v=6Lxd_NiaSbQ)
+[<img src="https://github.com/mrsl-itesm/.github/blob/2b1798a774fb1a74f1512b67c13fd0057f1394d7/mini_adan.png" width="446" height="800">](https://www.youtube.com/watch?v=6Lxd_NiaSbQ)
