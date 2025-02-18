@@ -1,10 +1,10 @@
 # [MultiRobot Systems Lab](https://tecscience.tec.mx/es/tecnologia/laboratorio-robotica-mexico/)
 
-<img src="https://www.github.com/mrsl-itesm/TEClogo.jpg" align="center">
+<img src="https://github.com/mrsl-itesm/.github/blob/5966b32e1bf540a8b667a473c68aaf965acbbe93/TEClogo.jpeg" align="center">
 
 ## MultiRobot Systems Laboratory @ Tec de Monterrey Campus Monterrey
 
-# Principal Investigators:
+### Principal Investigators:
 
 - Dr. Herman Castañeda Cuevas
   - [Google Scholar](https://scholar.google.com/citations?user=aAbtWIkAAAAJ&hl=es)
