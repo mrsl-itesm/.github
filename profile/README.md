@@ -1,6 +1,7 @@
 # [MultiRobot Systems Lab](https://tecscience.tec.mx/es/tecnologia/laboratorio-robotica-mexico/)
 
-<img src="https://github.com/mrsl-itesm/.github/blob/5966b32e1bf540a8b667a473c68aaf965acbbe93/TEClogo.jpeg" align="center">
+<!-- img src="https://github.com/mrsl-itesm/.github/blob/5966b32e1bf540a8b667a473c68aaf965acbbe93/TEClogo.jpeg" align="center" -->
+<img src="https://github.com/mrsl-itesm/.github/blob/d24e9520fc0b0e6ed968cbb74732b1bccb3a2b89/mrsl_mock_white.png" align="center">
 
 ## MultiRobot Systems Laboratory @ Tec de Monterrey Campus Monterrey
 
