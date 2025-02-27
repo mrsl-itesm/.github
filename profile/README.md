@@ -21,4 +21,4 @@
 [<img src="https://github.com/mrsl-itesm/.github/blob/2b1798a774fb1a74f1512b67c13fd0057f1394d7/mini_adan.png" height="224" width="400">](https://www.youtube.com/watch?v=6Lxd_NiaSbQ)
 
 * Experimental Results: Fixed-Time Convergent Differentiator for a Fully-Actuated Hexacopter Control
-[<img src="https://github.com/mrsl-itesm/.github/blob/2b1798a774fb1a74f1512b67c13fd0057f1394d7/mini_adan2.png" height="224" width="400">](https://youtu.be/etXKOGwM4bk)
+[<img src="https://github.com/mrsl-itesm/.github/blob/161def9fffaefd85108efbd2644a6f8de43412e5/mini_adan2.png" height="224" width="400">](https://youtu.be/etXKOGwM4bk)
